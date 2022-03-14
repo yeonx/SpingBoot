@@ -14,3 +14,4 @@
 |chap 04. 머스테치로 화면 구성하기|
 |:---:|
 |[서버 템플릿 엔진과 머스테치 소개](https://yeonx.tistory.com/entry/Chapter-04-%EB%A8%B8%EC%8A%A4%ED%85%8C%EC%B9%98%EB%A1%9C-%ED%99%94%EB%A9%B4-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-1)|
+|[기본 페이지 만들기](https://yeonx.tistory.com/entry/Chapter-04-%EB%A8%B8%EC%8A%A4%ED%85%8C%EC%B9%98%EB%A1%9C-%ED%99%94%EB%A9%B4-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-2)|
