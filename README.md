@@ -33,3 +33,4 @@
 |:---:|
 |[AWS 회원가입 / EC2 인스턴스 생성하기](https://yeonx.tistory.com/entry/Chapter-06-AWS-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-EC2-1)|
 |[EC2 서버에 접속하기](https://yeonx.tistory.com/entry/Chapter-06-AWS-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-EC2-2)|
+|[아마존 리눅스 서버 생성 시 꼭 해야 할 설정들](https://yeonx.tistory.com/entry/Chapter-06-AWS-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-EC2-3)|
