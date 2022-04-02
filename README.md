@@ -39,4 +39,4 @@
 |:---:|
 |[RDS 인스턴스 생성하기](https://yeonx.tistory.com/entry/Chapter-07-AWS%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-RDS)|
 |[RDS 운영환경에 맞는 파라미터 설정하기](https://yeonx.tistory.com/entry/Chapter-07-AWS%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-RDS-2)|
-|[내 PC에서 RDS에 접속해 보기](https://yeonx.tistory.com/entry/Chapter-07-AWS%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-RDS-3)|
+|[내 PC에서 RDS에 접속해 보기 / EC2에서 RDS에서 접근 확인](https://yeonx.tistory.com/entry/Chapter-07-AWS%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-AWS-RDS-3)|
