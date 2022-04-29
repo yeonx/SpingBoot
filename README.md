@@ -58,4 +58,10 @@
 |[배포 스크립트 만들기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-2)|
 |[외부 Security 파일 등록하기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-3)|
 |[스프링 부트 프로젝트로 RDS 접근하기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-3)|
-|[EC2에서 소셜에서 로그인하기]()|
+|[EC2에서 소셜에서 로그인하기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-4)|
+
+</br>
+
+|Chap 09. 코드가 푸시되면 자동으로 배포해 보자 - Travis CI 배포 자동화|
+|:---:|
+|[CI & CD 소개 / Travis CI 연동하기](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-1)|
