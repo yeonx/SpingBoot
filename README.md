@@ -56,3 +56,6 @@
 |:---:|
 |[EC2에 프로젝트 Clone 받기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-1)|
 |[배포 스크립트 만들기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-2)|
+|[외부 Security 파일 등록하기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-3)|
+|[스프링 부트 프로젝트로 RDS 접근하기](https://yeonx.tistory.com/entry/Chapter-08-EC2-%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-3)|
+|[EC2에서 소셜에서 로그인하기]()|
