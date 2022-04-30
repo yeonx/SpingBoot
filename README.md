@@ -65,3 +65,4 @@
 |Chap 09. 코드가 푸시되면 자동으로 배포해 보자 - Travis CI 배포 자동화|
 |:---:|
 |[CI & CD 소개 / Travis CI 연동하기](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-1)|
+|[Travis CI와 AWS S3 연동하기](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-2)|
