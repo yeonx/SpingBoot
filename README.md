@@ -68,3 +68,8 @@
 |[Travis CI와 AWS S3 연동하기](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-2)|
 |[Travis CI와 AWS S3, CodeDeploy 연동하기](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-3)|
 |[배포 자동화 구성](https://yeonx.tistory.com/entry/Chapter-09-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%91%B8%EC%8B%9C%EB%90%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-Travis-CI-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-4)|
+
+</br>
+|Chap 10. 24시간 365일 중단 없는 서비스를 만들자|
+|:---:|
+|[무중단 배포 소개](https://yeonx.tistory.com/entry/Chapter-10-24%EC%8B%9C%EA%B0%84-365%EC%9D%BC-%EC%A4%91%EB%8B%A8-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%9E%90)|
